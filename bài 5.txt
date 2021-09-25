@@ -1,0 +1,17 @@
+Bài 5: Ghi lại các lệnh git đã học và giải thích.
+$git init     		: tạo một thư mục mới có tên .git, khởi tạo một dự án git mới hoặc đã có
+
+$git clone  		: download một tệp đã tồn tại sẵn trên kho lưu trữu về máy
+
+$git add    		: là câu lệnh giúp ta thêm tất cả các file code mới hoặc các file code được
+			  chỉnh sửa vào kho lưu trữ
+
+$git commit 		: lưu các thay đổi ở các file 
+
+$git push origin master : đẩy những thay đổi cục bộ lên nhánh làm việc chính
+
+$git log    		: sử dụng để kiểm tra lịch sử commit
+
+$git pull   		: sử dụng để nhận dữ liệu từ GitHub nó tìm nạp và kết hợp các thay đổi trên máy chủ từ xa vào
+			  thư mục làm việc
+$git branch 		: tạo một nhánh làm việc mới từ project

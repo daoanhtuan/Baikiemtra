@@ -1,0 +1,8 @@
+n = int(input("Nhap so n:"))
+def tongchuso(n):
+    s = 0;
+    while(n > 0):
+        s = s + n % 10;
+        n = int(n / 10);
+    return s;
+print("Tổng các số trong", n, "là", tongchuso(n));
